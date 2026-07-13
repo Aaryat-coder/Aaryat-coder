@@ -14,8 +14,6 @@ Currently building projects focused on:
 
 ---
 
-![Banner](https://your-image-link)
-
 ## 🚀 Current Learning Journey
 
 * Python for Data Analysis
